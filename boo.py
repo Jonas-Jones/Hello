@@ -2,7 +2,7 @@ from tkinter import *
  
 class Ball:
     def __init__(self, xpos, ypos, v):
-        self.x = xpos
+        
         self.y = ypos
         self.v_x = v
         self.v_y = v
